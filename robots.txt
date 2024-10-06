@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pusilemu.github.io/sitemap.html.gz
+Sitemap: https://pusilemu.github.io/app/sitemap.html.gz
+Sitemap: https://pusilemu.github.io/assets/sitemap.html.gz
+Sitemap: https://pusilemu.github.io/css/sitemap.html.gz
+Sitemap: https://pusilemu.github.io/data/sitemap.html.gz
+Sitemap: https://pusilemu.github.io/includes/sitemap.html.gz
+Sitemap: https://pusilemu.github.io/item/sitemap.html.gz
+Sitemap: https://pusilemu.github.io/src/sitemap.html.gz
